@@ -18,9 +18,9 @@ p {
 
 h2 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #cc1a1a;
 }
 
 img {
-  display: block;
-  margin: auto;
+  max-width: 100%;
 }
