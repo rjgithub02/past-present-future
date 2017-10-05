@@ -1,0 +1,26 @@
+body {
+  background-color: #c2c8d1;
+}
+
+h1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: center;
+  border-style: solid;
+  padding: 10px;
+}
+
+p {
+  font-size: 14px;
+  font-family: 'Encode Sans Expanded', sans-serif;
+  text-indent: 50px;
+}
+
+h2 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
