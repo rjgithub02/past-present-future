@@ -4,10 +4,13 @@ body {
 
 h1 {
   font-size: 20px;
-  font-family: sans-serif;
+  font-family: 'baloo';
   text-align: center;
   border-style: solid;
   padding: 10px;
+  border-radius: 20px 0px;
+  border-color: #150eea;
+  color: #cc1a1a;
 }
 
 p {
@@ -21,6 +24,25 @@ h2 {
   color: #cc1a1a;
 }
 
-img {
-  max-width: 100%;
+img#hou {
+  float: right;
+  border-radius: 20px;
+  margin-left: auto;
+  padding: 5px;
+}
+
+img#sch {
+  display: block;
+  border-radius: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h3 {
+  font-family: 'Permanent Marker', cursive;
+
+}
+
+h4 {
+  text-align: center;
 }
