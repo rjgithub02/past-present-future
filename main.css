@@ -46,3 +46,8 @@ h3 {
 h4 {
   text-align: center;
 }
+
+li {
+  font-family: fantasy;
+  font-style: italic;
+}
