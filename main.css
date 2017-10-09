@@ -1,5 +1,7 @@
 body {
   background-color: #c2c8d1;
+  width: 720px;
+  margin: auto;
 }
 
 h1 {
@@ -50,4 +52,16 @@ h4 {
 li {
   font-family: fantasy;
   font-style: italic;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: #orange;
+}
+
+a:hover {
+  color: green;
 }
